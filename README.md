@@ -2,7 +2,7 @@
 Scripts to process and organize the **EEG-fMRI** dataset
 
 # 1. Organizing the dataset
-Each subject MUST have the following organization, where `/maps` contains the result of the peak maps analysis derived from the EEG-fMRI registered to the fisrt run of `/anat/<sub>_T1w.nii.gz`
+Each subject MUST have the following organization, where `/maps` contains the result of the peak maps analysis derived from the EEG-fMRI registered to the fisrt run of `/anat/<sub>_T1w.nii.gz` or `/anat/<sub>_run-1_T1.nii.gz`
 
 ```bash
 sub-ep1586
